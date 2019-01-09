@@ -1,0 +1,7 @@
+aaa 3 bbb,fff ccc
+bbb 1 _ _
+ccc 0 aaa eee
+ddd 1 _ eee
+eee 3 aaa,bbb fff
+fff 3 ggg bbb
+ggg 2 eee ccc

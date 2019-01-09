@@ -1,0 +1,17 @@
+
+k=160, m=31, n=10
+
+// input:
+
+djcran 3 zehzhang,chen464 kapadia
+chen464 1 _ _
+fan6 0 chen464 djcran
+zehzhang 1 _ kapadia
+kapadia 3 zehzhang,fan6 djcran
+steflee 0 _ _
+
+// expected result:
+
+chen464 zehzhang djcran
+kapadia fan6 steflee
+342
