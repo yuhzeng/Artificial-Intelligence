@@ -1,7 +1,3 @@
-# B551 assignment 4
-
-Team members: Yuhan Zeng, Hai Hu, Piyush Vyas
-
 ### Our best algorithm: forest
 
 ## 1. KNN. Highest Accuracy: 72.90%
